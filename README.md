@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Deepanshu Singh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30">
+#<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Deepanshu Singh <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE4MTAxNjAsIm5iZiI6MTc2MTgwOTg2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMwVDA3Mzc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmZjk4ZGJhNTUzNjNmYmExM2ZlYmQ0Njk3Y2E4MDk0MzAyZjg1OTdkZTQ0NjY5NmJiMDI1MDg4YjRmMDVhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qn-AkQauNDeihcESS12hkNlxe31QipZgBGk7a-B5nJk" width="50">
 
 Welcome to my GitHub!  
-I'm a **Software Developer** passionate about **Python, Flask, C#, and full-stack web development**.  
+I'm a **Software Developer** passionate about **Python, C#, and full-stack web development**.  
 I enjoy turning ideas into working systems — from intelligent web apps to interactive dashboards.  
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35px">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -17,6 +17,8 @@ I enjoy turning ideas into working systems — from intelligent web apps to inte
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<img  src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE4MTAxNjAsIm5iZiI6MTc2MTgwOTg2MCwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMwVDA3Mzc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWFlZDU3M2Y2ZjUxZjMwYmQzNWI2Y2Y0NmE1YmExZWU2NzJjMGFlODEyYjJkMzBjMDZmODM2ZTkwMWJmMGNmN2ImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.agZ7zZQLh9nXRTpXxw6dCd2JzuHpBvW8taz_Jsz-1Z8" width="80px">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500px">
 
 ---
 
@@ -29,8 +31,8 @@ I enjoy turning ideas into working systems — from intelligent web apps to inte
 ---
 
 ## 📊 GitHub Stats
-![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshu-singh194&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-singh194&layout=compact&theme=tokyonight)
+![Deepanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepanshusingh142&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshusingh142&layout=compact&theme=tokyonight)
 
 ---
 
