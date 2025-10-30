@@ -1,4 +1,4 @@
-# Hi, I'm Deepanshu 👋
+# Hi, I'm Deepanshu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 I'm a passionate developer interested in Python, C#  and full-stack projects.  
 This is my recently project  **face recognition-based attendance systems** and exploring **AI + web development**.
