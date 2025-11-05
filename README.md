@@ -1,7 +1,7 @@
 #<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> Hello, I'm Deepanshu Singh <img src="https://private-user-images.githubusercontent.com/74038190/240815616-7b282ec6-fcc3-4600-90a7-2c3140549f58.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE4MTAxNjAsIm5iZiI6MTc2MTgwOTg2MCwicGF0aCI6Ii83NDAzODE5MC8yNDA4MTU2MTYtN2IyODJlYzYtZmNjMy00NjAwLTkwYTctMmMzMTQwNTQ5ZjU4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDMwVDA3Mzc0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmZjk4ZGJhNTUzNjNmYmExM2ZlYmQ0Njk3Y2E4MDk0MzAyZjg1OTdkZTQ0NjY5NmJiMDI1MDg4YjRmMDVhOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.qn-AkQauNDeihcESS12hkNlxe31QipZgBGk7a-B5nJk" width="50">
 
 Welcome to my GitHub!  
-I'm a **Software Developer** passionate about **Python, C#, and full-stack web development**.  
+I'm a **Software Developer** passionate about **Python, C#, OOPs, full-stack web development,My sqlI,PHP, Flutter and Dart **.  
 I enjoy turning ideas into working systems — from intelligent web apps to interactive dashboards.  
 
 ---
